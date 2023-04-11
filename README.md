@@ -1,7 +1,7 @@
 ### <div align="center">I'm Alisha, a front-end developer👩‍💻,  turning ideas into reality and crafting digital experiences with code.💻</div>  
   
 
-- 🔭 I’m currently working on WordPress (https://noakoutofficial.com) (https://megaquiz.pk/) (https://www.ahmedblog.xyz/)
+- 🔭 I’m currently working on WordPress (https://noakoutofficial.com) (https://megaquiz.pk) (https://www.ahmedblog.xyz)
   
 
 - 🌱 I’m currently learning React.js advance  
